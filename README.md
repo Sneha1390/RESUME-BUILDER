@@ -42,6 +42,7 @@ npm start
 npm run dev
 
 Open Another Terminal- Backend (Server):
+cd RESUME-BUILDER
 cd server
 npm install
 npm start
