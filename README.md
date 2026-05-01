@@ -1,4 +1,12 @@
-# RESUME-BUILDER
+## Student Name - Sneha Kumari
+## Id -2211981390
+
+## Project - RESUME-BUILDER
+## Type- Copyright
+
+## Current Status of Copyright - Copyright Application Submitted and Current status is  Waiting 
+
+
 
 ##  Project Overview
 
